@@ -1,34 +1,28 @@
-# Flutter Facebook Redesign Application UI Design and Animation
+## Flutter Facebook Redesign Application
 
-Flutter Facebook Redesign Application UI/UX design and Animation - day 19 Flutter Animation and UI Design.
+A part of #flutter100daysofcode. Let's create a beautiful and animated Facebook Application UI with Flutter.
 
-This repository is a part of the 100-day design in Flutter.
+### [Watch it on Youtube](https://youtu.be/VDB1OHb5SGg)
 
-In this video we use, ListView, Container, Gradient, LinearGradient and so on in the one-speed video.
+## Previous Designs
+[Checkout my Youtube channel](https://youtube.com/afgprogrammer)
 
-[Youtube Video](https://youtu.be/VDB1OHb5SGg)
 
-## Last Design
-- [UI Design- Day 1](https://github.com/afgprogrammer/flutter-inspiration-app-ui)
-- [UI Design- Day 2](https://github.com/afgprogrammer/Flutter-trip-app-ui)
-- [UI Design- Day 3](https://github.com/afgprogrammer/Flutter-food-delivery-app-ui)
-- [UI Design- Day 4](https://github.com/afgprogrammer/Flutter-actors-profile-app-ui)
-- [UI Design- Day 5](https://github.com/afgprogrammer/Flutter-ripple-map-application)
-- [UI Design- Day 6](https://github.com/afgprogrammer/Flutter-page-transition-animation)
-- [UI Design- Day 7](https://github.com/afgprogrammer/Flutter-button-animation)
-- [UI Design- Day 8](https://github.com/afgprogrammer/Flutter-Splash-Screen-Animation)
-- [UI Design- Day 9](https://github.com/afgprogrammer/Flutter-Party-Event-Application)
-- [UI Design- Day 10](https://github.com/afgprogrammer/Flutter-GridView-Example-UI)
-- [UI Design- Day 11](https://github.com/afgprogrammer/Flutter-Travel-Application)
-- [UI Design- Day 12](https://github.com/afgprogrammer/Flutter-Login-Page-UI)
-- [UI Design- Day 13](https://github.com/afgprogrammer/Flutter-Login-Page-Design)
-- [UI Design- Day 14](https://github.com/afgprogrammer/Flutter-Login-Page-3)
-- [UI Design- Day 15](https://github.com/afgprogrammer/Flutter-Shoes-Shop-App)
-- [UI Design- Day 16-17](https://github.com/afgprogrammer/Flutter-Complete-e-commerce)
-- [UI Design- Day 18](https://github.com/afgprogrammer/Flutter-Custom-Carousel)
-
+## Development Setup
+Clone the repository and run the following commands:
+```
+flutter pub get
+flutter run
+```
 
 ## ScreenShot
 
 <img src="assets/screenshot/one.png" height="500em"/>&nbsp;<img src="assets/screenshot/two.png" height="500em" />
 
+
+## Links
+
+* [Website](https://afgprogrammer.com)
+* [Youtube channel](https://youtube.com/afgprogrammer)
+* [Twitter](https://twitter.com/afgprogrammer)
+* [Instagram](https://instagram.com/afgprogrammer)
