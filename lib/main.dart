@@ -291,7 +291,7 @@ class _HomePageState extends State<HomePage> {
     return Container(
       padding: EdgeInsets.symmetric(horizontal: 20, vertical: 5),
       decoration: BoxDecoration(
-        border: Border.all(color: Colors.grey[200]),
+        border: Border.all(color: Colors.grey.shade200),
         borderRadius: BorderRadius.circular(50),
       ),
       child: Center(
@@ -310,7 +310,7 @@ class _HomePageState extends State<HomePage> {
     return Container(
       padding: EdgeInsets.symmetric(horizontal: 20, vertical: 5),
       decoration: BoxDecoration(
-        border: Border.all(color: Colors.grey[200]),
+        border: Border.all(color: Colors.grey.shade200),
         borderRadius: BorderRadius.circular(50),
       ),
       child: Center(
@@ -329,7 +329,7 @@ class _HomePageState extends State<HomePage> {
     return Container(
       padding: EdgeInsets.symmetric(horizontal: 20, vertical: 5),
       decoration: BoxDecoration(
-        border: Border.all(color: Colors.grey[200]),
+        border: Border.all(color: Colors.grey.shade200),
         borderRadius: BorderRadius.circular(50),
       ),
       child: Center(
